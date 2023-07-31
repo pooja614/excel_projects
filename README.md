@@ -49,9 +49,13 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/2fb5c51d-f9ab-4d52-91d3-f2194e1390bf) 
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/aa34666c-3da2-4a70-90af-412434808fa3) 
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/aa34666c-3da2-4a70-90af-412434808fa3)  
+
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/4a90899f-8fba-4e4f-a396-30c55681eadd)
+
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/72df0ef1-4dd3-4b47-bf77-cc904aa5c734)
 
 
 <pre>This is non interactive sample of the interactive excel dashboard of the project
