@@ -25,7 +25,18 @@ Gross margin percentage: Gross margin percentage
 Gross income: Gross income
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 </pre>
-</pre>
+</pre> 
+
+# Calculated Reports
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/6417e40e-02dd-4c92-8558-9c9713c4a1db) 
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/12cb5a79-64b1-447f-917c-cb64bdcf03ac)
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/1339f378-9fa0-435c-8917-437d71104e16)
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/050d6b55-8fe9-4b1a-ad83-2ae939666f32)
+
+# Visualizations
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/a1a5aabb-7ac7-4a5b-825e-21026e23b68d)
 
@@ -58,5 +69,7 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/72df0ef1-4dd3-4b47-bf77-cc904aa5c734)
 
 
+
 <pre>This is non interactive sample of the interactive excel dashboard of the project
-To be continued with statistical analysis</pre>
+To be continued with statistical analysis</pre> 
+
