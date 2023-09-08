@@ -30,13 +30,18 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 </pre> 
 
 # Calculated Reports
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/6417e40e-02dd-4c92-8558-9c9713c4a1db) 
+
+
+
+
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/12cb5a79-64b1-447f-917c-cb64bdcf03ac)
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/1339f378-9fa0-435c-8917-437d71104e16)
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/050d6b55-8fe9-4b1a-ad83-2ae939666f32)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/050d6b55-8fe9-4b1a-ad83-2ae939666f32)  
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/6417e40e-02dd-4c92-8558-9c9713c4a1db) 
 
 # Visualizations
 
