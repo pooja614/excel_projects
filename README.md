@@ -1,6 +1,8 @@
 # supermarket_sales
 Data and Statistical Analysis 
 <h1>SUPERMARKET SALES ANALYSIS</h1> 
+
+
 <pre>
 The dataset is downloaded from
 <a href ="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales">kaggle-here</a>
@@ -38,35 +40,32 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 
 # Visualizations
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/a1a5aabb-7ac7-4a5b-825e-21026e23b68d)
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/383f8196-d908-40ae-82c3-a8a2ee0c00b0)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/8aafc836-1829-4f7f-94a5-8396500263bc) 
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/34a35fc6-dc40-4c6b-b8c8-986b3c2bf364)
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/bbb4af8d-cf50-4ac9-8201-73917820b951)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/60b6043f-fc68-4cc4-8ec5-5d65f8aa1b32)
 
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/f81c3ca6-b9b9-4991-881a-0cb362f8beb4)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/cab2763f-bac4-4835-92c0-2be8d6c78077)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/72e1dd33-f1a8-49b2-91cd-9088e21a81bd)
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/e83a93f4-4d65-4170-858b-901fc3fb5c30)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/81df16d9-6189-45e5-a2d9-f69045280fd7)
 
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/c1252bd6-1bc5-4c81-9fc3-709a86341569) 
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/de04c24e-ebc7-437c-89bc-86233dcc7391) 
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/fbf1ab86-0fd2-4e76-8cb1-1d91b1173019) 
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/2fb5c51d-f9ab-4d52-91d3-f2194e1390bf) 
-
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/aa34666c-3da2-4a70-90af-412434808fa3)  
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/a5c21d20-af36-4431-8d99-6f46bb702b75) 
 
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/4a90899f-8fba-4e4f-a396-30c55681eadd)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/e884656f-2ff1-482b-b0f8-df4e33c2e82f)
 
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/ab022651-ff48-4714-99ba-bffbe98829bc)
 
-![image](https://github.com/pooja614/supermarket_sales/assets/69869583/72df0ef1-4dd3-4b47-bf77-cc904aa5c734)
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/07520721-0311-4591-9c0b-8cd8a8433a0c) 
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/adcb1826-49cf-4365-99c7-8a995c41cb3a)
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/7a711585-2117-4b8e-96db-b070945a0970)
+
+![image](https://github.com/pooja614/supermarket_sales/assets/69869583/3a1d2126-658a-4ab0-babb-48f68995e3e9)
+
 
 
 
