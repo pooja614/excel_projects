@@ -71,9 +71,34 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 
 ![image](https://github.com/pooja614/supermarket_sales/assets/69869583/3a1d2126-658a-4ab0-babb-48f68995e3e9)
 
+## Key Insights
+*	January has highest sales and February has least sales. 
+*	March has a good start. 
+*	Cash and E-wallet has more preference. 
+*	The ratings are group as follows:
+![range](https://github.com/pooja614/supermarket_sales/assets/69869583/0685f6c6-7aef-4870-9c6f-db1c5d3933d1)
+
+*	Good and very good are most common ratings. 
+*	Sports and Travel , Food and beverages has more sales of $.55122 and $. 56144.
+*	This aids to 17% shares each out of total sales. 
+*	Health and Beauty products have 15%shares which is the least. 
+*	Electronic goods has maximum purchase quantity(971).   
+*	Naypyitaw city has highest total sales. 
+*	Members have slightly more purchases than normal customers
+*	On applying filter we observe that Yagan city purchase includes 53% by Male and 47% female. 
+*	Naypyitaw has significant male purchases. 
+*	Male are keen on sports and travel purchases, and food and beverages. 
+*	Females have significant fashion accessories, electronics and home and lifestyle purchase. 
+*	Purchases involving food and beverages prefer credit card the most. 
+*	Mandalay City people have given more ratings to electronic accessories and health and beauty section. 
+*	Timings of purchases  of different categories for January month at Naypytaw shows spike in health and beauty purchases at morning 10:00, later 15:00hrs. 
+*	Fashion accessories has more purchase during mornings  and evenings. 
+*	Lower brackets of prices has higher purchases and costly price brackets have lesser purchases. 
 
 
 
-<pre>This is non interactive sample of the interactive excel dashboard of the project
+
+<pre>Changing filters can aid in in-depth insights. 
+  This is non interactive sample of the interactive excel dashboard of the project. 
 </pre> 
 
