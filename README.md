@@ -75,5 +75,5 @@ Rating: Customer stratification rating on their overall shopping experience (On 
 
 
 <pre>This is non interactive sample of the interactive excel dashboard of the project
-To be continued with statistical analysis</pre> 
+</pre> 
 
