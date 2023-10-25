@@ -32,7 +32,8 @@
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/cbf999b7-fd0a-45c7-b17f-3ffe6b80c2fe)
 
 
-![dynamic_report](https://github.com/pooja614/supermarket_sales/assets/69869583/5f7a1b9e-7ac5-49e4-8487-ff4fd1fe4f48) 
+![dynamic_report](https://github.com/pooja614/excel_projects/assets/69869583/54b62911-e0ab-43da-981d-4d8d1d4990c4)
+
 
 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/916541d5-416c-4a4d-ad4e-9da5616706eb)
