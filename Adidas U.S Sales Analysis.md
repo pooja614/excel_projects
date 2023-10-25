@@ -16,11 +16,11 @@
 	
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/86e5febc-1b07-46db-8ce7-fa22da6dd49f)
 
+					
+					
+![image](https://github.com/pooja614/excel_projects/assets/69869583/8bbc79f0-ddf6-431c-9bd2-1e391e39ae2c)
 
 					
-![image](https://github.com/pooja614/excel_projects/assets/69869583/01b69080-5359-43cf-8031-460a5387f802)
-
-![image](https://github.com/pooja614/excel_projects/assets/69869583/ad882f0c-ff7b-4f0c-b262-756ca240e157) 
 
 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/dc2ae818-b61f-4eb7-be6e-cbb0feedc228)
