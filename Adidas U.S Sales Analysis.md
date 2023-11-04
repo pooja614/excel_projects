@@ -61,7 +61,7 @@ The Data has been explored in the following directions to develop useful insight
 
 
 ## Link  
-<a href="https://resonatedatabi-my.sharepoint.com/:x:/g/personal/poojads_resonatedatabi_onmicrosoft_com/Eb64dhiDL9tGice5YMOReJgBWDLxfSNLvFzWduU3cB-zqA?e=3GFKve">View only link of the project(sharepoint)</a> 
+<a href="https://resonatedatabi-my.sharepoint.com/:x:/g/personal/poojads_resonatedatabi_onmicrosoft_com/Eb64dhiDL9tGice5YMOReJgBWDLxfSNLvFzWduU3cB-zqA?e=3GFKve" target="_blank">View only link of the project(sharepoint)</a> 
 
 
 
