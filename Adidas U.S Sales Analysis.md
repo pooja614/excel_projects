@@ -52,7 +52,7 @@ The Data has been explored in the following directions to develop useful insight
 ### Dynamic State Level Sales Report
 
 * Summarized view of transactions, sales, cost, profit, quantity, sales method and retailers is obtained for chosen state.
-
+ 
   ![image](https://github.com/pooja614/excel_projects/assets/69869583/cbf999b7-fd0a-45c7-b17f-3ffe6b80c2fe)
 
 * GIF of the dynamic report is embedded here. 
