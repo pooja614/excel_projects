@@ -13,7 +13,7 @@ Data Analysis using Excel.
 </pre>
 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/afb022e0-96e5-438d-8873-57cd1f0a2e36)
-
+ 
 ## Data Preprocessing 
 The data was checked for duplicates, null values and relevant data types were assigned. 
 
