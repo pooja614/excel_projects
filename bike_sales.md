@@ -18,19 +18,29 @@
 ### Analysis and Visualization 
 
 <pre>Basic Statistics and Analysis by Income</pre>
-![image](https://github.com/pooja614/excel_projects/assets/69869583/b79777de-a484-4abd-ab16-a930154d4454)
+![image](https://github.com/pooja614/excel_projects/assets/69869583/b79777de-a484-4abd-ab16-a930154d4454) 
+
 <pre>
-- The below pivot table provides detailed insights of bike purchases. 
+- $30k to $70k is income range of people who purchased most of the bikes.
+- Skilled Manual, professional fall under the income range of bike purchasers, with managers having wide range. 
+- Education and income appears more or less balanced. 
+- Middle age and old people fall under bike purchase favouring income range. 
+</pre>
+
+![image](https://github.com/pooja614/excel_projects/assets/69869583/2104c380-5ead-40b7-8e56-c53c8193d5e7)
+<pre>
+- The pivot tables provide detailed insights of bike purchases. 
 - Percentage of male and female purchases for different distance commuted is visualized for different age-brackets. 
 - Effect of occupation and marital status on purchases is analysed across different regions. 
 </pre>
-![image](https://github.com/pooja614/excel_projects/assets/69869583/2104c380-5ead-40b7-8e56-c53c8193d5e7)
-
 									
 ### Report 
 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/04bcc07d-505d-48a0-8d0b-f053de2885fe) 
-
+<pre>
+- The report provides different insights. 
+- 
+</pre>
 <pre>GIF of the report is embedded below </pre>
 
 ![bike_sales](https://github.com/pooja614/excel_projects/assets/69869583/cce6d61e-d28a-4011-80ba-cc31a3afeb4b)
