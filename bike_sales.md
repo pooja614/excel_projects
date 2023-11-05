@@ -1,4 +1,5 @@
-
+## BIKE SALES ANALYSIS 
+This project aims at analysing the bike purchases across different factors of the people
 ### Data 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/a9235f76-5f96-4665-8f71-5a7483483de5)
 
@@ -38,9 +39,14 @@
 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/04bcc07d-505d-48a0-8d0b-f053de2885fe) 
 <pre>
-- The report provides different insights. 
-- 
-</pre>
+- The report contains 3 graphs providing different insights. 
+- The 'Count of Bike Purchases' graph analyses count of purchases across different genders in different professions. 
+- 'Commute Distance and Bike Purchase Trends' depicts purchase trends by distance commuted. 
+- The last graph analyses bike purchases across marital status and owning home factors.
+- Region and Age Brakets filter can be applied across all the graphs.
+</pre> 
+
+### GIF
 <pre>GIF of the report is embedded below </pre>
 
 ![bike_sales](https://github.com/pooja614/excel_projects/assets/69869583/cce6d61e-d28a-4011-80ba-cc31a3afeb4b)
