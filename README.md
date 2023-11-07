@@ -11,13 +11,13 @@ The topics and concepts incorporated is as follows:
 - VLOOKUP
 - power query editor 
 
-<a href = "Adidas U.S Sales Analysis.md">Adidas Sales Analysis</a>
+<a href = "Adidas U.S Sales Analysis.md">Adidas Sales Analysis</a> <br>
 This data Adidas is a collection of data that includes information on the sales of Adidas products. <br>
 
-<a href = "bike_purchase_analysis.md">Bike Purchase Analysis</a>
+<a href = "bike_purchase_analysis.md">Bike Purchase Analysis</a> <br>
 Analyses different factors influencing the purchase of bike. <br>
 
-<a href = "supermarket_sales.md">Supermarket Sales Analysis</a>
+<a href = "supermarket_sales.md">Supermarket Sales Analysis</a> <br>
 Analysing the superstore data and trends. <br>
 
 
