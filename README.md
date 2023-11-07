@@ -16,6 +16,7 @@ This data Adidas is a collection of data that includes information on the sales 
 
 <b>Bike Selling Factors Analysis</b><br>
 Analyses different factors influencing the purchase of bike. <br>
+
 <b>Superstore Analysis</b><br>
 Analysing the superstore data and trends. <br>
 
