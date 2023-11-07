@@ -2,7 +2,7 @@
 # SUPERMARKET SALES ANALYSIS  
 
 ### Objective: 
-To analyze the sales and customer behaviour of 3 branches of Superstore. 
+To analyze the sales and customer behaviour of 3 branches of a Supermarket. 
 <pre>
 The dataset is downloaded from
 <a href ="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales">kaggle-here</a> 
