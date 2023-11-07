@@ -30,9 +30,10 @@ Gross income: Gross income
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 </pre>
 </pre> 
+
 ## Data Preprocessing 
-Relevant 
-The ratings are group as follows:
+- Removal of duplicates, changing the data type etc are done.  
+- The ratings are further grouped as follows to create new column for analysis. 
 
 ![range](https://github.com/pooja614/supermarket_sales/assets/69869583/0685f6c6-7aef-4870-9c6f-db1c5d3933d1)
 
@@ -56,17 +57,6 @@ The ratings are group as follows:
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/9a3eb653-8745-44ed-9425-3ff4313e1ba2)
 
 
-
-
-
-
-
-
-
-
-
-
-<a href = "https://1drv.ms/x/c/d2b5d2ebbee60249/EYeiiX7VkK5FoqZwCWXAb_gByY2htHsOgomz5WNx-VOP3w">here</a> 
 
 
 <pre>Changing filters can aid in in-depth insights. 
