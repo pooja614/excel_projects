@@ -11,12 +11,12 @@ The topics and concepts incorporated is as follows:
 - VLOOKUP
 - power query editor 
 
-#### Adidas Sales Analysis
+<b>Adidas Sales Analysis</b>
 This data Adidas is a collection of data that includes information on the sales of Adidas products. 
 
-#### Bike Selling Factors Analysis 
+<b>Bike Selling Factors Analysis</b>
 Analyses different factors influencing the purchase of bike. 
-#### Superstore Analysis 
+<b>Superstore Analysis</b>
 Analysing the superstore data and trends. 
 
 
