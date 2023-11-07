@@ -1,4 +1,4 @@
-## BIKE SALES ANALYSIS 
+## BIKE SALE ANALYSIS 
 This project aims at analysing the bike purchases across different conditions of the people like mariiage status, gender, distance travelled, owning cars, home etc. The data is analysed to extract meaningful pattern of purchases. 
 ### Data 
 ![image](https://github.com/pooja614/excel_projects/assets/69869583/a9235f76-5f96-4665-8f71-5a7483483de5)
