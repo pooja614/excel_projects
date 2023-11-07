@@ -1,38 +1,27 @@
-# supermarket_sales
-Data and Statistical Analysis 
-<h1>SUPERMARKET SALES ANALYSIS</h1> 
 
+# SUPERMARKET SALES ANALYSIS  
 
-
-
+### Objective: 
+To analyze the sales and customer behaviour of 3 branches of Superstore. 
 <pre>
 The dataset is downloaded from
-<a href ="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales">kaggle-here</a>
-The data has the following fields.
-<pre>
-Invoice id: Computer generated sales slip invoice identification number
-Branch: Branch of supercenter (3 branches are available identified by A, B and C).
-City: Location of supercenters
-Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.
-Gender: Gender type of customer
-Product line: General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty,
-                                                   Home and lifestyle, Sports and travel
-Unit price: Price of each product in $
-Quantity: Number of products purchased by customer
-Tax: 5% tax fee for customer buying
-Total: Total price including tax
-Date: Date of purchase (Record available from January 2019 to March 2019)
-Time: Purchase time (10am to 9pm)
-Payment: Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet)
-COGS: Cost of goods sold
-Gross margin percentage: Gross margin percentage
-Gross income: Gross income
-Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
+<a href ="https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales">kaggle-here</a> 
 </pre>
-</pre> 
+### About the Data
+- The data is about 3 centers of a supermarket - Mandalay, Naypyitaw, Yangon. <br>
+- Customer type: Type of customers, recorded by Members for customers using member card and Normal for without member card.<br>
+- Product line: <br>
+- General item categorization groups - Electronic accessories, Fashion accessories, Food and beverages, Health and beauty, <br>
+                                                   Home and lifestyle, Sports and travel<br>
+- Date: Date of purchase (Record available from January 2019 to March 2019)<br>
+- Time: Purchase time (10am to 9pm)<br>
+- Payment: Payment used by customer for purchase (3 methods are available – Cash, Credit card and Ewallet)<br>
+- Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)<br>
+
+ 
 
 ## Data Preprocessing 
-- Removal of duplicates, changing the data type etc are done.  
+- Removal of duplicates, irrelevant columns, changing the data type etc are done.  
 - The ratings are further grouped as follows to create new column for analysis. 
 
 ![range](https://github.com/pooja614/supermarket_sales/assets/69869583/0685f6c6-7aef-4870-9c6f-db1c5d3933d1)
